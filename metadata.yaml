@@ -1,0 +1,29 @@
+_repo: Kaffir-Folk-Lore-b-A-selection-from-the-traditional-tales-current-among-the-people-living-on-__71335
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Theal, Geo. Mc Call
+    gutenberg_agent_id: '56179'
+    url: http://www.gutenberg.org/2009/agents/56179
+description: ''
+gutenberg_issued: '2023-08-04'
+identifiers:
+  gutenberg: '71335'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924029905027/page/n5/mode/2up
+pgterms:marc905: 20200328144604mccallthea
+pgterms:marc906: '1886'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bSwan Sonnenschein, Le Bas & Lowrey, $c1886.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kaffir Folk-Lore : $b A selection from the traditional tales current among
+  the people living on the eastern border of the Cape Colony with copious explanatory
+  notes'
+url: http://www.gutenberg.org/ebooks/71335
