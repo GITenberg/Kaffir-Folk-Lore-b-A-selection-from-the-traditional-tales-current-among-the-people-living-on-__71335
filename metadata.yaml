@@ -1,11 +1,16 @@
 _repo: Kaffir-Folk-Lore-b-A-selection-from-the-traditional-tales-current-among-the-people-living-on-__71335
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71335-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Theal, Geo. Mc Call
     gutenberg_agent_id: '56179'
     url: http://www.gutenberg.org/2009/agents/56179
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71335#Kaffir-Folk-Lore-b-A-selection-from-the-traditional-tales-current-among-the-people-living-on-_
 gutenberg_issued: '2023-08-04'
 identifiers:
   gutenberg: '71335'
